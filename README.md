@@ -12,6 +12,7 @@ This evaluation highlighted the potential of the survey framework, specifically 
 * The pilot revealed the need for developing mental health support in women in rural Pakistan, the location of the pilot intervention.
 
 
+
 ## MENDIS Possible Intervention Design based on Pilot Results - Theory of Change
 
 ![MENDIS-Intervention-Design](https://user-images.githubusercontent.com/32398058/161979569-6f55e91d-4596-4ea1-962b-e7fba6cd7413.jpg)
