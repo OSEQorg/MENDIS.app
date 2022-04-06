@@ -1,6 +1,6 @@
 # MENDIS.app
 
-MENDIS.app (Mental Distress Application) an audio-based survey web-app, using mental health screening as a test case to evaluate the broader use of audio-based surveys. The “Augmented Audio” (AUMA) framework is a lightweight, open source software framework that allows developers to produce interactive audio-based learning content or surveys.
+MENDIS.app (Mental Distress Application) an audio-based survey web-app, using mental health screening as a test case to evaluate the broader use of audio-based surveys. The “Augmented Audio” (AUMA) framework is a lightweight, open source software framework that allows developers to produce interactive audio-based learning content or surveys. MENDIS was developed with support of @CorrelAid
 
 The MENDIS survey is based on the WHO’s ten question “Self Response Questionnaire”, or SRQ-10 for short. MENDIS.app was piloted in Pakistan, in collaboration with a local partner NGO, Aurat Raaj. Part of this pilot trial was an evaluation of the user experience, the experience of the NGO using the app and the impact on beneficiaries.
 
